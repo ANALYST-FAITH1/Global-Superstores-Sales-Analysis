@@ -44,6 +44,8 @@ Data was cleaned and transformed with the Power Query Editor of Power BI
 ## Data Modeling
 Power BI automatically connected related tables resulting in a star schema model. The ORDER table is the fact table and the RETURNS and PEOPLE are the dimensional tables; connected to the ORDER table via 'Order ID' and 'Region' respectively.
 
-![](GSA_model.png)
+![](GSAmodel.png)
+
+
 
 
