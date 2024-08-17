@@ -44,7 +44,24 @@ Data was cleaned and transformed with the Power Query Editor of Power BI
 ## Data Modeling
 Power BI automatically connected related tables resulting in a star schema model. The ORDER table is the fact table and the RETURNS and PEOPLE are the dimensional tables; connected to the ORDER table via 'Order ID' and 'Region' respectively.
 
-![](GSAmodel.png)
+![](GSA_model.png)
+
+## Data Analysis and Visualization
+
+![](Dashboard.png)
+
+## Insights
+- United States, India and China were the most profitable countries in 2014 with Canon imageCLASS 2200 Advanced Copier being the Best-seller product of all three countries.
+- It is interesting to note that Copiers might just be a highly requested products as it ranks as one of the highest item per shipping cost with sum of 105.3k dollars.
+- Nigeria ranks the fifth highest country per shipping cost yet has very low profit. This is as a result of discount rates.
+- Least Sub-Category in South Asia include Tables, Accessories and Supplies.
+- The sales of Tables should be discontinued as there is a decline in sales.
+- In Australia, Appliances takes the lead in sales with a total of $139 average profit.
+- The Top 6 Customers are Bill Eplett, Eric Murdock, Patrick O'Brill, Steven Ward, Gary Hwang and John Grady, they purchase more of technology and office supplies as compared to furnitures.
+
+
+
+
 
 
 
